@@ -9,7 +9,7 @@ const products = [
     
       
       description:
-        "kkkkk",
+        "kkkkkkkkkk",
     },
     {
       id: "2",
